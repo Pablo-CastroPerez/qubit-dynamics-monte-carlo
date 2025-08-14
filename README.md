@@ -21,7 +21,7 @@ For theory and simulation results, see the 📄 [poster](Qubit_Resonance_Poster.
 
 | File                     | Description                               |
 |--------------------------|-------------------------------------------|
-| `qubit_simulation.py`    | Core simulation and plotting code         |
+| `Qubit_Resonance.py`     | Core simulation and plotting code         |
 | `Qubit_Resonance_Poster.pdf` | Summary poster with theory and results  |
 
 ---
